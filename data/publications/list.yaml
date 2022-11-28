@@ -1,0 +1,134 @@
+works:
+
+- title: "Moral Universalism and the Structure of Ideology"
+  pdflink: "/pdf/Universalism_ideology.pdf"
+  book: "Review of Economic Studies"
+  bookprefix: "Forthcoming, "
+  coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
+  abstract: >
+     Throughout the Western world, people's policy views are correlated across domains in a strikingly similar fashion. This paper proposes that what partly explains the structure of ideology is moral universalism: the extent to which people's altruism and trust remain constant as social distance increases. In new large-scale multinational surveys, heterogeneity in universalism descriptively explains why the left and right both simultaneously support and oppose different types of government spending. Moreover, the left-right divide on topics such as redistribution strongly depends on whether people evaluate more or less universalist policies. Large-scale donation data provide additional evidence for the political left's universalism.
+
+- title: "Moral Universalism: Measurement and Economic Relevance"
+  pdflink: "/pdf/Universalism_measurement.pdf"
+  coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
+  book: "Management Science"
+  bookprefix: "Forthcoming, "
+  links:
+    - url: "/pdf/Measurement_Tools_Package.zip"
+      text: "Qualtrics survey files to implement universalism games"
+  abstract: >
+     Many applied economic settings involve tradeoffs between in-group members and strangers. To better understand decision-making in these contexts, this paper measures and investigates the economic relevance of heterogeneity in moral universalism: the extent to which people exhibit the same level of altruism and trust towards strangers as towards in-group members. We first introduce a new experimentally-validated survey-based measure of moral universalism that is simple and easily scalable. We then deploy this tool in a large, representative sample of the U.S. population to study heterogeneity and economic relevance. We find that universalism is a relatively stable trait at the individual level. Heterogeneity in universalism is significantly related to observables: older people, men, the rich, the rural, and the religious exhibit less universalist preferences and beliefs. Linking variation in universalism to economic and social  behaviors, we document that universalists donate less money locally but more globally, and are less likely to exhibit home bias in equity and educational investments. In terms of social networks, universalists have fewer friends, spend less time with them, and feel more lonely. These results provide a blueprint for measuring moral universalism in applied settings, and suggest that variation in universalism is relevant for understanding a myriad of economic behaviors.
+    
+- title: "Cognitive Biases: Mistakes or Missing Stakes?"
+  coauthors: "Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, and Jeroen van de Ven"
+  book: "Review of Economics and Statistics"
+  bookprefix: "Forthcoming, "
+  pdflink: "/pdf/Biases_stakes.pdf"  
+  abstract: >
+     Despite decades of research on heuristics and biases, empirical evidence on the effect of large incentives -- as present in relevant economic decisions -- on cognitive biases is scant. This paper tests the effect of incentives on four widely documented biases: base rate neglect, anchoring, failure of contingent thinking, and intuitive reasoning in the Cognitive Reflection Test. In pre-registered laboratory experiments with 1,236 college students in Nairobi, we implement three incentive levels: no incentives, standard lab payments, and very high incentives that increase the stakes by a factor of 100 to more than a monthly income. We find that cognitive effort as measured by response times increases by 40% with very high stakes. Performance, on the other hand, improves very mildly or not at all as incentives increase, with the largest improvements due to a reduced reliance on intuitions. In none of the tasks are very high stakes sufficient to de-bias participants, or come even close to doing so. These results contrast with expert predictions that forecast larger performance improvements.
+
+- title: "Patience and Comparative Development"
+  pdflink: "/pdf/Patience.pdf"
+  book: "Review of Economic Studies"
+  booksuffix: ", 2022, vol. 89(10), pp. 2806–2840"
+  coauthors: "Uwe Sunde, Thomas Dohmen, Armin Falk, David Huffman, and Gerrit Meyerheim"
+  abstract: >
+     This paper studies the relationship between patience and comparative development through a combination of reduced-form analyses and model estimations. Based on a globally representative dataset on time preference in 76 countries, we document two sets of stylized facts. First, patience is strongly correlated with both per capita income and the accumulation of physical capital, human capital and productivity. These correlations hold across countries, subnational regions, and individuals. Second, the quantitative magnitude of the patience elasticity strongly increases in the level of aggregation. To provide an interpretive lens for these patterns, we analyze an OLG model in which savings and education decisions are endogenous to patience, and aggregate production is characterized by capital-skill complementarities. This model reconciles both the correlations between patience and macroeconomic variables as well as the substantial amplification of patience elasticities at higher levels of aggregation. The results of model estimations resemble the reduced-form patterns and suggest that cross-country variation in productivity plays an important role in generating the observed comparative development patterns and aggregation effects.
+
+- title: "Confidence and Central Tendency in Perceptual Judgment"
+  coauthors: "Yang Xiang, Thomas Graeber, and Samuel Gershman"
+  book: "Attention, Perception & Psychophysics"
+  booksuffix: ", 2021, 83, pp. 3024-3034."
+  pdflink: "/pdf/Perception.pdf"  
+  abstract: >
+    This paper theoretically and empirically investigates the role of noisy cognition in perceptual judgment, focusing on the central tendency effect: the well-known empirical regularity that perceptual judgments are biased towards the center of the stimulus distribution. Based on a formal Bayesian framework, we generate predictions about the relationships between subjective confidence, central tendency, and response variability. Specifically, our model clarifies that lower subjective confidence as a measure of posterior uncertainty about a judgment should predict (i) a lower sensitivity of magnitude estimates to objective stimuli; (ii) a higher sensitivity to the mean of the stimulus distribution; (iii) a stronger central tendency effect at higher stimulus magnitudes; and (iv) higher response variability. To test these predictions, we collect a large-scale experimental data set and additionally re-analyze perceptual judgment data from several previous experiments. Across data sets, subjective confidence is strongly predictive of the central tendency effect and response variability, both correlationally and when we exogenously manipulate the magnitude of sensory noise. Our results are consistent with (but not necessarily uniquely explained by) Bayesian models of confidence and the central tendency.
+
+- title: "Moral Values and Voting"
+  pdflink: "/pdf/Values_voting.pdf"
+  book: "Journal of Political Economy"
+  booksuffix: ", 2020, vol. 128(10), pp. 3679-3729 (Lead Article)."
+  links:   
+    - url: "https://microeconomicinsights.org/moral-values-and-voting/"
+      text: "microeconomic insights column"
+    - url: "/pdf/county.dta"
+      text: "county-level moral values data"
+    - url: "https://www.journals.uchicago.edu/doi/suppl/10.1086/708857"
+      text: "data and code"
+  abstract: >
+      This paper studies the supply of and demand for moral values in recent U.S. presidential elections. Using a combination of large-scale survey data and text analyses, I find support for the hypothesis that both voters and politicians exhibit heterogeneity in their emphasis on “universal” relative to “communal” moral values, and that politicians’ vote shares partly reflect the extent to which their moral appeal matches the values of the electorate. Over the last decade, Americans’ values have become increasingly communal – especially in rural areas – which generated increased moral polarization and is associated with changes in voting patterns across space.
+
+- title: "What You See Is All There Is"
+  pdflink: "/pdf/What_you_see.pdf"
+  book: "Quarterly Journal of Economics"
+  booksuffix: ", 2020, vol. 135(3), pp. 1363-1398."
+  links:
+    - url: "/pdf/What_you_see.pdf"
+      text: "Version 09/2017"
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YYUN3"
+      text: "data and code"
+  abstract: >
+    News reports and communication are inherently constrained by space, time, and attention. As a result, news sources often condition the decision of whether or not to share a piece of information on the similarity between the signal and the prior belief of the audience, so that the audience needs to draw inferences from a selected sample. This paper experimentally studies how people form beliefs in these contexts, in particular the mechanisms behind errors in statistical reasoning. I document that a substantial fraction of experimental participants updates beliefs by exclusively taking into account information that is right in front of them, hence neglecting selection effects. A series of treatments aimed at identifying mechanisms document that neglect is largely driven by subjects maintaining a misspecified mental model of the known information environment, according to which selection does not even come to mind. This mental model of “what you see is all there is” is not constant but predictably responds to perhaps seemingly innocuous variations in the environment, including (i) the computational complexity of the decision problem, and (ii) whether selection problems arise due to a deliberate choice between information sources or as a mechanical by-product of another decision. These results point to the context-dependence of mental models and the resulting errors in belief updating.
+
+
+- title: "Ancient Origins of the Global Variation in Economic Preferences"
+  pdflink: "/pdf/Ancient_origins.pdf"
+  book: "AEA Papers & Proceedings"
+  booksuffix: ", 2020, vol. 110, pp. 319-323."
+  coauthors: "Anke Becker and Armin Falk"
+  abstract: >
+    This paper shows that contemporary population-level heterogeneity in risk aversion, time preference, altruism, positive reciprocity, negative reciprocity, and trust partly traces back to the structure of the migration patterns of our very early ancestors. To document this pattern, we link differences in preferences between populations to the length of time elapsed since the ancestors of the respective groups broke apart from each other, as proxied by genetic and linguistic distance measures. Preference differences are significantly increasing in ancestral distance in both cross-country regressions and within-country analyses across groups of migrants. 
+
+    
+- title: "Kinship, Cooperation, and the Evolution of Moral Systems"
+  pdflink: "/pdf/Moral_systems.pdf"
+  book: "Quarterly Journal of Economics"
+  booksuffix: ", 2019, vol. 134(2), pp. 953-1019."
+  links:
+    - url: "https://voxeu.org/article/kinship-cooperation-and-culture"
+      text: "VOX column"
+    - url: "https://www.cesifo.org/en/research-network"
+      text: "Distinguished CESifo Affiliate Award"
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JX1OIU"
+      text: "data and code"
+  abstract: >
+        Across the social sciences, a key question is how societies manage to enforce cooperative behavior in social dilemmas such as public goods provision or bilateral trade. According to an influential body of theories in psychology, anthropology, and evolutionary biology, the answer is that humans have evolved moral systems: packages of functional psychological and biological mechanisms that regulate economic behavior, including a belief in moralizing gods; moral values; negative reciprocity; and emotions of shame, guilt, and disgust. Based on a stylized model, this article empirically studies the structure and evolution of these moral traits as a function of historical heterogeneity in extended kinship relationships. The evidence shows that societies with a historically tightly knit kinship structure regulate behavior through communal moral values, revenge taking, emotions of external shame, and notions of purity and disgust. In loose kinship societies, on the other hand, cooperation appears to be enforced through universal moral values, internalized guilt, altruistic punishment, and an apparent rise and fall of moralizing religions. These patterns point to the presence of internally consistent but culturally variable functional moral systems. Consistent with the model, the relationship between kinship ties, economic development, and the structure of the mediating moral systems amplified over time.
+
+
+- title: "Correlation Neglect in Belief Formation"
+  pdflink: "/pdf/Correlation_neglect.pdf"
+  book: "Review of Economic Studies"
+  booksuffix: ", 2019, vol. 86(1), pp. 313-332."
+  coauthors: "Florian Zimmermann"
+  links:
+    - url: "/pdf/Correlation_neglect_appendix.pdf"
+      text: "online appendix"
+    - url: "/pdf/Instructions_CN.pdf"
+      text: "experimental instructions"
+    - url: "https://academic.oup.com/restud/article/86/1/313/4772809#supplementary-data"
+      text: "data and code"
+  abstract: >
+    Many information structures generate correlated rather than mutually independent signals, the news media being a prime example. This article provides experimental evidence that many people neglect the resulting double-counting problem in the updating process. In consequence, beliefs are too sensitive to the ubiquitous “telling and re-telling of stories” and exhibit excessive swings. We identify substantial and systematic heterogeneity in the presence of the bias and investigate the underlying mechanisms. The evidence points to the paramount importance of complexity in combination with people’s problems in identifying and thinking through the correlation. Even though most participants in principle have the computational skills that are necessary to develop rational beliefs, many approach the problem in a wrong way when the environment is moderately complex. Thus, experimentally nudging people’s focus towards the correlation and the underlying independent signals has large effects on beliefs.
+    
+- title: "Global Evidence on Economic Preferences"
+  pdflink: "/pdf/Global_preferences.pdf"
+  book: "Quarterly Journal of Economics"
+  booksuffix: ", 2018, vol. 133(4), pp. 1645-1692 (Lead Article)."
+  coauthors: "Armin Falk, Anke Becker, Thomas Dohmen, David Huffman, and Uwe Sunde"
+  links:
+    - url: "/pdf/Global_preferences_appendix.pdf"
+      text: "online appendix"
+    - url: "https://www.briq-institute.org/global-preferences/home"
+      text: "Global Preferences Survey website and data"
+  abstract: >
+    This article studies the global variation in economic preferences. For this purpose, we present the Global Preference Survey (GPS), an experimentally validated survey data set of time preference, risk preference, positive and negative reciprocity, altruism, and trust from 80,000 people in 76 countries. The data reveal substantial heterogeneity in preferences across countries, but even larger within-country heterogeneity. Across individuals, preferences vary with age, gender, and cognitive ability, yet these relationships appear partly country specific. At the country level, the data reveal correlations between preferences and biogeoraphic and cultural variables, such as agricultural suitability, language structure, and religion. Variation in preferences is also correlated with economic outcomes and behaviors. Within countries and subnational regions, preferences are linked to individual savings decisions, labor market choices, and prosocial behaviors. Across countries, preferences vary with aggregate outcomes ranging from per capita income, to entrepreneurial activities, to the frequency of armed conflicts.
+
+- title: "The Precision of Subjective Data and the Explanatory Power of Economic Models"
+  pdflink: "/pdf/measures_subj_beliefs.pdf"
+  book: "Journal of Econometrics"
+  booksuffix: ", 2017, vol. 200(2), pp. 378-389."
+  coauthors: "Tilman Drerup and Hans-Martin von Gaudecker"
+  links:
+    - url: "/pdf/meas_error_subj_beliefs_online_appendix.pdf"
+      text: "online appendix"
+  abstract: >
+    Subjective expectations are important primitives in many economic models, yet their direct measurement often yields imprecise and inconsistent data. This has previously been treated as a pure measurement error problem. In contrast, this paper argues that the individual-level precision of such data may reflect the structure of the underlying decision process. We estimate a semiparametric double index model on data specifically collected for this purpose and show that stock market participation decisions exhibit little variation in economic model primitives when individuals provide error-ridden belief statements. In contrast, beliefs and risk preferences predict strong variation in stock market participation for individuals who report precise expectations measures.

@@ -1,0 +1,55 @@
+works:
+
+- title: "Moral Universalism: Global Evidence"
+  coauthors: "Alexander Cappelen and Bertil Tungodde"
+  abstract: >
+    This paper presents a new set of stylized facts about the global variation in universalism, leveraging hypothetical money allocation tasks deployed in representative samples of 64,000 people from 60 countries. Our data reveal large variation in universalism within and across countries, which almost entirely reflects heterogeneity in people's moral views regarding how to treat different types of relationships. These moral views vary systematically with age, gender and religiosity. Universalism is strongly predictive of relevant outcomes such as civic engagement and left-wing economic and social policy views, in particular in the rich West. Across countries, universalism varies with the economic, political and religious organization of societies. We provide tentative evidence that experience with democracy makes people more universalist. Overall, our results show that moral universalism shapes and is shaped by politico-economic outcomes across the globe.
+
+- title: "Values as Luxury Goods and Political Polarization"
+  pdflink: "/pdf/Luxury_goods.pdf"
+  coauthors: "Mattias Polborn and Alex Wu"
+  abstract: >
+    This paper develops a theory of political behavior in which values are a luxury good: the relative weight that voters place on values rather than material considerations increases in income. This idea both generates new testable implications and ties together a broad set of empirical regularities about political polarization in the U.S. The model predicts (i) voters who are sufficiently rich to afford voting left; (ii) that more rich than poor people vote against their material interests; (iii) that Democrats are internally more fragmented than Republicans; and (iv) widely-discussed realignments: rich moral liberals who swing Democrat, and poor moral conservatives who swing Republican. Assuming that parties set policies by aggregating their supporters' preferences, the model also predicts increasing social party polarization over time, such that poor moral conservatives swing Republican even though their relative incomes decreased. We relate these predictions to known stylized facts, and test our new predictions empirically.
+
+- title: "Associative Memory and Belief Formation"
+  pdflink: "/pdf/Memory.pdf"
+  coauthors: "Frederik Schwerter and Florian Zimmermann"
+  abstract: >
+    This paper experimentally studies the role of associative recall for belief formation. Information is often embedded in memorable contexts, which may cue the asymmetric recall of similar past news through associative memory. We design a simple and tightly controlled theory-driven experiment, in which participants observe sequences of signals about hypothetical companies. Here, identical signal realizations are communicated with identical contexts: stories and images. Because participants predominantly remember those past signals that get cued by the current context, participants' expectations strongly overreact to recent news. Investigating various model comparative statics and limits of the role of associative memory, we find support for the model's predictions about how overreaction depends on exogenous variation in the signal history; the correlation between signals and contexts; and the experimentally-induced scope for forgetting and associative memory. We use our experimental data to structurally estimate the model parameters that govern the strength of imperfect and associative recall.
+
+- title: "Cognitive Uncertainty"
+  pdflink: "/pdf/Cognitive_uncertainty.pdf"
+  book: "Quarterly Journal of Economics"
+  bookprefix: "Revise and resubmit, "
+  coauthors: "Thomas Graeber"
+  links:
+    - url: "https://voxeu.org/article/cognitive-uncertainty?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
+      text: "VOX column"
+    - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
+      text: "Column for UNDP Human Development Report 2022"
+  abstract: >
+    This paper documents the economic relevance of measuring cognitive uncertainty: people's subjective uncertainty over their ex-ante utility-maximizing decision. In a series of experiments on choice under risk, the formation of beliefs and forecasts of economic variables, we show that cognitive uncertainty predicts systematic biases in economic decisions and that it can be deployed to provide tests of formal theories. When people are cognitively uncertain -- either endogenously or because the problem is designed to be complex -- their decisions are heavily attenuated functions of objective probabilities, which gives rise to behavior that is regressive to an intermediate option. This insight ties together a wide range of empirical regularities in behavioral economics that are typically viewed as distinct phenomena or even as reflecting preferences, including the probability weighting function in choice under risk; base rate insensitivity, conservatism and sample size effects in belief updating; and predictable overoptimism and -pessimism in  forecasts of economic variables. Our results offer a blueprint for how a simple measurement of cognitive uncertainty generates novel insights about what people find complex and how they respond to it.
+
+- title: "Noisy Cognition and Intertemporal Choice"
+  pdflink: "/pdf/CU_intertemporal.pdf"
+  coauthors: "Thomas Graeber"
+  abstract: >
+    The most widely-studied and robust deviations of intertemporal choice behavior from the exponential discounted utility paradigm are typically conceptualized as resulting from non-standard preferences. We experimentally study the hypothesis that many of these patterns are instead largely driven by noisy cognitive processes, which lead people to implicitly treat different time delays alike to some degree. In our experiments, we measure cognitive uncertainty, which captures people's awareness of their noisiness. In the data, cognitive uncertainty strongly predicts various core empirical regularities, such as why people often appear very impatient over short horizons, why per-period impatience is smaller over long than over short horizons, why discounting is hyperbolic even when the present is not involved, and why choices violate transitivity. An account of noisy cognition also makes two new predictions, which we test and confirm: discounting is more hyperbolic when a decision is more complex, and cognitive uncertainty is strongly predictive of following expert advice.     
+
+- title: "Confidence, Self-Selection and Bias in the Aggregate"
+  pdflink: "/pdf/Confidence_aggregate.pdf"
+  coauthors: "Thomas Graeber and Ryan Oprea"
+  abstract: >
+     Economics experiments have produced widespread evidence that people suffer from a range of cognitive biases. However, unlike experiments, real-world institutions often allow decision makers to self-select out, potentially filtering (or amplifying) the impact of biases on economic aggregates.  We study the economic impacts of such self-selection and how they depend on people's meta-cognitive awareness of their own errors. In a series of online experiments that cover a wide range of classical decision biases, we document large heterogeneity in how cognitive biases are related to the intensity of bets in speculative markets, bids for property rights in auctions and contributions to collective decisions. In some tasks, rational subjects are more confident than their biased counterparts and bet, bid and vote more aggressively. As a result, self-selection tends to filter the effect of irrationalities on aggregate quantities. However, in other tasks, confidence and performance are unrelated or even negatively correlated, so that experimental institutions do not filter errors and sometimes even magnify them. As a methodological blueprint, we show that a simple measure of the relative calibration of confidence strongly predicts the degree to which institutional self-selection filters the effect of irrationalities.     
+
+- title: "Herding, Warfare and a Culture of Honor: Global Evidence"
+  pdflink: "/pdf/Culture_of_Honor.pdf"
+  coauthors: "Yiming Cao, Armin Falk, Paola Giuliano and Nathan Nunn"
+  abstract: >
+     According to the widely known `culture of honor' hypothesis from social psychology, traditional herding practices have generated a value system conducive to revenge-taking and violence. We test the economic significance of this idea at a global scale using a combination of ethnographic and folklore data, global information on conflicts, and multinational surveys. We find that the descendants of herders have significantly more frequent and severe conflict today, and report being more willing to take revenge in global surveys. We conclude that herding practices generated a functional psychology that plays a role in shaping conflict across the globe.
+
+- title: "Moral Boundaries"
+  book: "Annual Review of Economics"
+  bookprefix: "In preparation for the "
+  abstract: >
+    This paper reviews and synthesizes the fast-growing economics literature on heterogeneity in moral values regarding in-group members and strangers. I outline different ways of formalizing and measuring these values, and then turn to discussing their politico-economic consequences. Heterogeneity in moral universalism has been shown to be helpful for understanding outcomes such as policy views, voting behavior, social cooperation, the internal organization of firms, friendship networks, donations, and the abolitionist movement. Looking at the origins of heterogeneity in morality, various contributions have shed light on the roles of kinship systems, market exposure, democracy, Christianity and ecology. A main takeaway that emerges from the literature is that heterogeneity in morality often reflects differences in economic incentives that emerge from the prevailing institutions and natural conditions, such that politico-economic outcomes both shape and are shaped by moral values. I discuss open questions and potential new applications.
